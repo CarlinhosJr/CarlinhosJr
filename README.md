@@ -7,7 +7,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graziosi&show_icons=true&theme=tokyonight)
+![Graziosi GitHub stats](https://github-readme-stats.vercel.app/api?username=Graziosi&show_icons=true&theme=tokyonight)
 
 ## Technologies I use in my day
 

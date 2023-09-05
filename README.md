@@ -18,4 +18,4 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 
-Front-end developer, I love technology, developing solutions that change people's lives and listening to good music.
+Front-end developer, I love technology, developing solutions that change people's lives and listening to good music..

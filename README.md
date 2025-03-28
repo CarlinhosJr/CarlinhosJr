@@ -1,4 +1,4 @@
-### Hi, I'm Luiz Carlos (aka Luiz) ✌️ 
+### Hi, I'm Luiz Carlos Ribeiro ✌️ 
 
 ## get in touch, I'll be happy to help 😃
 
